@@ -1,0 +1,9 @@
+body{
+    background-color: lightsteelblue;
+}
+
+h1{
+    text-align: center;
+    font-size: bold;
+    border: 1px solid lightgrey;
+}
